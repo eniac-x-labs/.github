@@ -6,6 +6,8 @@ shadow-x is a decentralized layer3 project carrying decentralized custody and pa
 * Twitter: [https://twitter.com/0xsavourlabs](https://twitter.com/0xsavourlabs)
 * SavourLabs Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
+* WeChat: LGZAXE
+
 
 ## Repositories
 
