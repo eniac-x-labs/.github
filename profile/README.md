@@ -18,7 +18,7 @@ shadow-x is a decentralized layer3 project carrying decentralized custody and pa
 * [skyeye](https://github.com/savour-labs/skyeye) Shadow-x market aggregator
 * [shadow-x](https://github.com/savour-labs/shadow-x) Shadow-x layer3 privacy social chain, not open source
 * [shadow-x-app](https://github.com/savour-labs/shadow-x-app) Shadow-x app
-* [shadow-x-app](https://github.com/savour-labs/docs-chinese) Shadow-x Chinese document
+* [docs-chinese](https://github.com/savour-labs/docs-chinese) Shadow-x Chinese document
 
 
 ## How to contribute
