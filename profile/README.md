@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to SavourLabs's developer community. We're so glad you stopped by!
 
 <!--
 
