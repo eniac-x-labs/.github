@@ -14,7 +14,7 @@ shadow-x is a decentralized layer3 project carrying decentralized custody and pa
 * [key-locker](https://github.com/savour-labs/key-locker) Shadow-x key locker and social recovery components
 * [fieryeyes](https://github.com/savour-labs/fieryeyes) Shadow-x nft recommender
 * [hailstone](https://github.com/savour-labs/hailstone) Shadow-x business middle platform service
-* [savour-hd](https://github.com/savour-labs/savour-hd) Shadow-x hd wallet docking chain service
+* [wallet-hd-chain](https://github.com/savour-labs/wallet-hd-chain) Shadow-x hd wallet docking chain service
 * [skyeye](https://github.com/savour-labs/skyeye) Shadow-x market aggregator
 * [shadow-x](https://github.com/savour-labs/shadow-x) Shadow-x layer3 privacy social chain, not open source
 * [shadow-x-app](https://github.com/savour-labs/shadow-x-app) Shadow-x app
