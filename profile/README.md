@@ -30,10 +30,6 @@ Please find issure under each project and contribute.
 ## Links
 
 * [savour offical website](https://savour.group/) Savour offical website
-* [chaineye](https://chaineye.info/) 链眼社区
-* [chaineye github](https://github.com/0xchaineye) 链眼社区 github
-* [问我社区](https://www.wenwoha.com/) 问我社区
-* [币家社区](http://bj.gingernet.vip/) 币家社区
 
 
 Thanks for visiting our profile, and happy coding! 😊
