@@ -17,7 +17,7 @@ shadow-x is a decentralized layer3 project carrying decentralized custody and pa
 - [skyeye](https://github.com/savour-labs/skyeye): Digital currency market aggregator, currently supports all mainstream centralized exchanges, and decentralized exchanges are also being supported.
 - [fieryeyes](https://github.com/savour-labs/fieryeyes): NFT aggregator project, development has been temporarily suspended
 - [hailstone](https://github.com/savour-labs/hailstone): Business mid-end project, docking various back-end rpc services, such as [wallet-chain-node](https://github.com/savour -labs/wallet-chain-node), [skyeye](https://github.com/savour-labs/skyeye) and other projects
-- [protect-x-contracts](https://github.com/savour-labs/protect-x-contracts): Economic model of layer3 privacy social protocol chain, reverse re-pledge protocol contract
+- [protect-x-contracts](https://github.com/savour-labs/protect-x-contracts): Economic model of layer3 privacy social protocol chain, reverse re-staking protocol contract
 - [wallet-sdk](https://github.com/savour-labs/wallet-sdk): HD wallet SDK, mnemonic phrase generation, offline mnemonic phrase export private key generation address, transaction offline signature, currently supports BTC, There are more than 40 mainstream chains such as ETH, ADA, Arbi, OP, Scroll, Zksync, Tron, Tezos, Oasis, and Cosmos.
 - [shadow-x-app](https://github.com/savour-labs/parapack): A private social wallet developed by RN. It has been connected to 7 mainstream chains and integrated with DAPP browser, flash exchange and market prices. and other functions.
 - [bitcoin-sdk-lite](https://github.com/savour-labs/bitcoin-sdk-lite): Lightweight BTC wallet SDK
@@ -34,7 +34,7 @@ shadow-x is a decentralized layer3 project carrying decentralized custody and pa
 - [docs-chinese](https://github.com/savour-labs/docs-chinese) Shadow-x Chinese document
 
 ### 1.2. Projects planned to be developed
-- [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 pledge contract off-chain service project. In order to attract more developers to join, this project is developed using rust
+- [protect-x-services](https://github.com/savour-labs/protect-x-services) layer3 staking contract off-chain service project. In order to attract more developers to join, this project is developed using rust
 - [ethereum-event-watcher](https://github.com/savour-labs/ethereum-event-watcher) The contract event indexing infrastructure of the EVM chain is provided for use by protect-x-services in order to attract more developers If you want to join, this project is developed using rust
 
 
