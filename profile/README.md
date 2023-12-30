@@ -3,7 +3,7 @@
 shadow-x is a decentralized layer3 project carrying decentralized custody and payment. The bottom layer consists of two layer3 chains, one is layer3 decentralized privacy social chain, the other is layer3 decentralized payment custody chain, and the upper layer The embodiment is similar to WeChat, and our project has been polished for a year.
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
-* Twitter: [https://twitter.com/0xsavourlabs](https://twitter.com/0xsavourlabs)
+* Twitter: [https://twitter.com/0xsavour](https://twitter.com/0xsavour)
 * SavourLabs Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
 * WeChat ID: LGZAXE
