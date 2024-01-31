@@ -3,8 +3,8 @@
 our team focusing on common layer3 app chain technology solutions. Our vision is to create a layer3 app chain network where thousands of chains are interconnected and everything can be blockchained. We will launch a layer3 app chain network that is compatible with all layer2 (such as Bitcoin layer2 , Ethereum Layer2)'s cross-chain interoperability protocol and staking protocol, and then gradually launch the layer privacy social + game protocol app chain, layer3 hosting protocol app chain and layer3 exchange protocol app chain, and finally achieve the interconnection of thousands of chains, and everything can be blockchain in layer3 blockchain network.
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
-* Twitter: [https://twitter.com/0xsavour](https://twitter.com/0xsavour)
-* SavourLabs Dev Group Email: [0xsavourlabs@gmail.com](0xsavourlabs@gmail.com)
+* Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
+* eniac-x-labs Dev Group Email: [0xdapplink@gmail.com](0xdapplink@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
 * WeChat ID: LGZAXE
 
@@ -26,7 +26,7 @@ There will be a corresponding issure under each project. If the issure is marked
 - The first step: fork the code to your own github
 - Step 2: Branch development based on your own repo on github
 - Step 3: Develop the task according to the task spec
-- Step 4: Submit the code to your own github repo and submit PR to the savorlabs project
-- Step 5: Savorlabs technical director reviews the code. If there are problems with the PR, make improvements based on the comments.
+- Step 4: Submit the code to your own github repo and submit PR to the eniac-x-labs project
+- Step 5: eniac-x-labs technical director reviews the code. If there are problems with the PR, make improvements based on the comments.
 - Step 6: Merge PR and issue task rewards
 
