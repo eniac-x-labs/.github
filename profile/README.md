@@ -4,7 +4,11 @@
 
 ## About Dapplink
 
-Dapplink focusing on common layer3 app chain technology solutions. Our vision is to create a layer3 app chain network where thousands of chains are interconnected and everything can be blockchained. We will launch a layer3 app chain network that is compatible with all layer2 (such as Bitcoin layer2 , Ethereum Layer2)'s cross-chain interoperability protocol and staking protocol, and then gradually launch the layer privacy social + game protocol app chain, layer3 hosting protocol app chain and layer3 exchange protocol app chain, and finally achieve the interconnection of thousands of chains, and everything can be blockchain in layer3 blockchain network.
+Dapplink Layer3 Solutions is dedicated to building a layer3 app chain network aimed at seamlessly interconnecting thousands of chains and enabling comprehensive blockchain integration. Our aspiration is to establish a network that supports cross-chain interoperability and staking protocols compatible with all layer2 platforms, including both Ethereum and Bitcoin Layer2. Our initial launch will feature a cross-chain interoperability protocol that supports Optimism mainnet, Polygon zkEVM and Scroll. Subsequently, we plan to expand support to encompass Ethereum and all mainstream layer2 projects, with future plans to facilitate cross-chain operations for BTC and its layer2 projects. 
+
+We are committed to progressively introducing protocols to support the development of privacy, social, gaming, custody, and exchange modules within our layer3 blockchain network, ultimately paving the way for the interconnectedness of myriad chains and comprehensive blockchain utilization. 
+
+Dapplink Bridge, the cross-chain interoperability protocol being launched, is positioned to serve as the cornerstone of a comprehensive network. This solution aims to enable the smooth, secure, and efficient transfer of assets and data among various blockchain platforms. Through Dapplink Bridge, we are paving the way for enhanced connectivity and fluidity within the decentralized ecosystem.
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
