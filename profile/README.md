@@ -10,6 +10,4 @@ We are committed to progressively introducing protocols to support the developme
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
-* eniac-x-labs Dev Group Email: [0xdapplink@gmail.com](0xdapplink@gmail.com)
 * Telegram [https://t.me/+qqhy1i-_xnU1M2Jl](https://t.me/+qqhy1i-_xnU1M2Jl)
-* WeChat ID: LGZAXE
