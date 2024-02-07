@@ -8,8 +8,6 @@ Dapplink Layer3 Solutions is dedicated to building a layer3 app chain network ai
 
 We are committed to progressively introducing protocols to support the development of privacy, social, gaming, custody, and exchange modules within our layer3 blockchain network, ultimately paving the way for the interconnectedness of myriad chains and comprehensive blockchain utilization. 
 
-Dapplink Bridge, the cross-chain interoperability protocol being launched, is positioned to serve as the cornerstone of a comprehensive network. This solution aims to enable the smooth, secure, and efficient transfer of assets and data among various blockchain platforms. Through Dapplink Bridge, we are paving the way for enhanced connectivity and fluidity within the decentralized ecosystem.
-
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
 * eniac-x-labs Dev Group Email: [0xdapplink@gmail.com](0xdapplink@gmail.com)
