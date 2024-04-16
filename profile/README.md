@@ -13,6 +13,7 @@
 - The Cross-Chain Interoperability Protocol
 - The Layer3 AppChain Protocol
 
+#### Social
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
