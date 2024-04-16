@@ -4,7 +4,15 @@
 
 ## About Dapplink
 
-The 1st Modular and Composable Layer3 Solutions, interconnect all chains & onboard every app onchain.
+#### The 1st Modular and Composable Layer3 AppChain 
+- Mass adoption of dApps on the blockchain
+- In-depth integration of blockchain and AI
+
+#### Key protocols
+- LinkLayer: The Multi-Staking Protocol
+- The Cross-Chain Interoperability Protocol
+- The Layer3 AppChain Protocol
+
 
 * Discord: [https://discord.gg/9N62gJgMVW](https://discord.gg/9N62gJgMVW)
 * Twitter: [https://twitter.com/0xdapplink](https://twitter.com/0xdapplink)
