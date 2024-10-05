@@ -1,8 +1,11 @@
 
 [![Dapplink](https://github.com/eniac-x-labs/.github/blob/main/profile/dapplink.jpeg)](https://github.com/eniac-x-labs)
 
+| Layer3                                      | Tech Solutions                                                                                                   | X                             |
+|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| [DappLink Layer3](https://github.com/eniac-x-labs)  | [DappLink one-click deployment wallet, l2, l3, da and dapps solutions](https://github.com/dapplink-labs)         | [X](https://x.com/0xdapplink) |
 
-## About Dapplink
+## About Dapplink Layer3
 
 #### The 1st Modular and Composable Layer3 AppChain 
 - Mass adoption of dApps on the blockchain
